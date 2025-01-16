@@ -82,3 +82,4 @@ We use Crowdin for translations. Visit [StarkNet Website on Crowdin](https://sta
 We appreciate all contributions! Your translations will help make the StarkNet website more accessible to people around the world.
 
 Test Modification du 130125
+Mise à jour du 16 janvier 2025 ✅
