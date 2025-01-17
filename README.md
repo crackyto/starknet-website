@@ -83,3 +83,4 @@ We appreciate all contributions! Your translations will help make the StarkNet w
 
 Test Modification du 130125
 Mise à jour du 16 janvier 2025 ✅
+Mise à jour du 17 janvier 2025 ✅
